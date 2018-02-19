@@ -1,0 +1,5 @@
+Rest API:
+
+https://auth0.com/blog/amp/developing-restful-apis-with-python-and-flask/?utm_source=twitter&utm_medium=sc&utm_campaign=restful-apis-with-python&__twitter_impression=true
+
+https://scotch.io/tutorials/build-a-restful-api-with-flask-the-tdd-way
